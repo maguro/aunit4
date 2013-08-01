@@ -1,5 +1,5 @@
-AUnit
-=====
+AUnit4
+======
 
 An ANTLR v4 unit testing extension.
 
