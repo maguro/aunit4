@@ -8,13 +8,13 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.toolazydogs.aunit</groupId>
-    <artifactId>aunit-project</artifactId>
-    <name>ANTLR Unit Testing Framework</name>
-    <version>2.0-SNAPSHOT</version>
+    <groupId>com.toolazydogs.aunit4</groupId>
+    <artifactId>aunit4-project</artifactId>
+    <name>ANTLR4 Unit Testing Framework</name>
+    <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <description>ANTLR JUnit Project</description>
-    <url>http://github.com/maguro/aunit</url>
+    <description>ANTLR4 Unit Project</description>
+    <url>http://github.com/maguro/aunit4</url>
 
 
     <modules>
